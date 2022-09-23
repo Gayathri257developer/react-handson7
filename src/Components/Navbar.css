@@ -1,0 +1,21 @@
+.navbar{
+    background: linear-gradient(rgb(255, 102, 0), yellow);
+    height: 70px;
+    margin: 10px;
+}
+.link{
+    color: black; 
+    font-size: 30px;
+    padding: 0px 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link:hover{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.table{
+    width: 80%;
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}

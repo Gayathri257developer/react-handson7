@@ -1,0 +1,19 @@
+body{
+  background-color: aliceblue;
+}
+label{
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+}
+.form-control{
+  background-color: rgb(237, 244, 242);
+  width: 30%;
+  border: 1px solid black;
+}
+.form-row{
+  display: flex;
+  flex-direction: column;
+}
